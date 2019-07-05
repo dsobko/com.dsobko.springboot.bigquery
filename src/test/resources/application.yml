@@ -1,0 +1,8 @@
+gcp:
+  env:
+    project: test
+
+
+request.properties:
+  user: client
+  secret: secret
